@@ -1,7 +1,12 @@
 import 'package:flutter/material.dart';
 
+<<<<<<< HEAD
 // master에 접근 가능?
 
+=======
+//test
+//test
+>>>>>>> 58cabbb8e1bb5d8a95f88c366f0ea3d4d0945667
 void main() {
   runApp(const MyApp());
 }
@@ -125,3 +130,4 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+//test
