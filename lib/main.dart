@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+// master에 접근 가능?
+
 void main() {
   runApp(const MyApp());
 }
